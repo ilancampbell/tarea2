@@ -1,0 +1,8 @@
+C:\Users\ilanc\source\repos\tarea2progra\tarea2progra\bin\Debug\tarea2progra.exe.config
+C:\Users\ilanc\source\repos\tarea2progra\tarea2progra\bin\Debug\tarea2progra.exe
+C:\Users\ilanc\source\repos\tarea2progra\tarea2progra\bin\Debug\tarea2progra.pdb
+C:\Users\ilanc\source\repos\tarea2progra\tarea2progra\obj\Debug\tarea2progra.csproj.AssemblyReference.cache
+C:\Users\ilanc\source\repos\tarea2progra\tarea2progra\obj\Debug\tarea2progra.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilanc\source\repos\tarea2progra\tarea2progra\obj\Debug\tarea2progra.csproj.CoreCompileInputs.cache
+C:\Users\ilanc\source\repos\tarea2progra\tarea2progra\obj\Debug\tarea2progra.exe
+C:\Users\ilanc\source\repos\tarea2progra\tarea2progra\obj\Debug\tarea2progra.pdb
